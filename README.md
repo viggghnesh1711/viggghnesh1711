@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building **[Leya](https://leya.vercel.app)** – website builder powered by AI & Firebase
+- 🔭 Currently building **[Leya]()** – website builder powered by AI & Firebase
 - 🚀 Exploring: DevOps workflows, AI agents, Firestore structuring
-- 🛠️ Stack: `Next.js`, `Tailwind`, `Firebase`, `Supabase`, `Shadcn`, `Framer Motion`
+- 🛠️ Stack: `Next.js`, `Tailwind`, `Supabase`, `Shadcn`, `Framer Motion`
 - 💬 Ask me about frontend dev, UI systems, or product ideas
 - 📢 Sharing my journey building in public
 
@@ -27,7 +27,7 @@
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| [**FitTrack**](https://fittrack.fun) | Next.js, AI, Razorpay | Fitness tracker + donation system + chatbot |
+| [**FitTrack**](https://fittrack.fun) | Next.js, AI, Razorpay, MongoDB | Fitness tracker + donation system + chatbot |
 | [**Trip Planner**](#) | Next.js, Firebase | Group travel dashboard with expense tracking |
 | [**Shinde Construction**](https://shindeconstruction.vercel.app) | Next.js, Tailwind | Dynamic site for a real construction firm |
 | [**TechExplore**](https://techexplore.onrender.com) | Node.js, EJS | Tech fest portal for registrations & events |
@@ -46,6 +46,5 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/)  
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://x.com/vighnesh_EXE)  
