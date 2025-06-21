@@ -28,7 +28,7 @@
 | Project | Stack | Description |
 |--------|-------|-------------|
 | [**FitTrack**](https://fittrack.fun) | Next.js, AI, Razorpay, MongoDB | Fitness tracker + donation system + chatbot |
-| [**Trip Planner**](#) | Next.js, Firebase | Group travel dashboard with expense tracking |
+| [**Trip Planner**](#) | Next.js, Firebase [MobileViewOnly] | Group travel dashboard with expense tracking |
 | [**Shinde Construction**](https://shindeconstruction.vercel.app) | Next.js, Tailwind | Dynamic site for a real construction firm |
 | [**TechExplore**](https://techexplore.onrender.com) | Node.js, EJS | Tech fest portal for registrations & events |
 | **Leya** (WIP) | Next.js, Supabase, AI tools | Full-featured website builder SaaS platform |
